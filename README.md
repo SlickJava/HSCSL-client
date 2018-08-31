@@ -2,7 +2,7 @@
 
 http://hscsl.net - if you are interested in signing up.
 
-Full stack Counter-Strike Pick Up Game Client - made with NodeJs, Express and Electron, integrated with [DatHost's API](http://dathost.net/api) and splewis' [Splewis' Get5](https://github.com/splewis/get5) interface for setting up automatic matchmaking with servers hosted on dathost.
+Full stack Counter-Strike Pick Up Game Client - made with NodeJs, Express and Electron, integrated with [DatHost's API](http://dathost.net/api) and [Splewis' Get5](https://github.com/splewis/get5) interface for setting up automatic matchmaking with servers hosted on Dathost.
 
 This client was made for HSCSL - a New Zealand High School Counter-Strike League as an alternative to LPL's [High School League](http://lolhsl.com/) which is based around the game League of Legends.
 
